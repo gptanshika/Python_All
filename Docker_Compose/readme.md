@@ -1,4 +1,4 @@
-hen you have multiple services (for example a Python app and a database), Docker creates separate images and containers for each service. Usually this is managed using Docker Compose.
+When you have multiple services (for example a Python app and a database), Docker creates separate images and containers for each service. Usually this is managed using Docker Compose.
 
 Concept
 
